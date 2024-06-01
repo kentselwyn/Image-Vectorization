@@ -1,7 +1,6 @@
-[submodule "pybind11"]
+[submodule "minimalized_diffvg/pybind11"]
 	path = minimalized_diffvg/pybind11
-	url = https://github.com/pybind/pybind11
 	url = https://github.com/pybind/pybind11.git
-[submodule "thrust"]
+[submodule "minimalized_diffvg/thrust"]
 	path = minimalized_diffvg/thrust
 	url = https://github.com/thrust/thrust.git
